@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alumno/Escritorio/Repaso-1er-Parcial/Lista.h
+Nodo.h
+/home/alumno/Escritorio/Repaso-1er-Parcial/Nodo.h
+
+/home/alumno/Escritorio/Repaso-1er-Parcial/Nodo.h
+iostream
+-
+
+/home/alumno/Escritorio/Repaso-1er-Parcial/Pila.h
+Nodo.h
+/home/alumno/Escritorio/Repaso-1er-Parcial/Nodo.h
+
+/home/alumno/Escritorio/Repaso-1er-Parcial/main.cpp
+Pila.h
+/home/alumno/Escritorio/Repaso-1er-Parcial/Pila.h
+Lista.h
+/home/alumno/Escritorio/Repaso-1er-Parcial/Lista.h
+
